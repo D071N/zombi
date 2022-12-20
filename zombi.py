@@ -268,7 +268,7 @@ def my_bots():
 	global bots
 	bots=[]
 	bots.append("http://zeronecorps.com/server.php?")
-	bots.append("https://drive.google.com/viewerng/viewer?url=")
+	bots.append("http://bepcjamui.in/Admin/Download/server.php?")
 	
 	
 	return(bots)
