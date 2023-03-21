@@ -302,13 +302,8 @@ def usage():
  /________| \______/  |__|  |__| |______/  |__| |_______|  BotNet v 0.1
                                                             
 
-\033[92m   This Tool Moded From Hammer Moded By Jayakumar T 
-	Follow On Instagram
-	https://instagram.com/jkdotin
-       
-        Follow On Facebook
-        https://facebook.com/jkdotin
-
+\033[92m   This Tool Moded From Hammer Moded By 1NV1518L3
+	
 	usage : python zombi.py  [-s] [-p] [-t]
 	-s : server ip 
 	-p : port default 80
