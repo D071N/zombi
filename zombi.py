@@ -302,7 +302,7 @@ def usage():
  /________| \______/  |__|  |__| |______/  |__| |_______|  BotNet v 0.1
                                                             
 
-\033[92m   This Tool Moded From Hammer Moded By 1NV1518L3
+\033[92m   This Tool Moded From Hammer Moded By ERROR404
 	
 	usage : python zombi.py  [-s] [-p] [-t]
 	-s : server ip 
